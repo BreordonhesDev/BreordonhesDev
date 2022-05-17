@@ -1,22 +1,24 @@
-## Oiii eu sou a Brenda Fernanda,
+## Oiii eu sou a Brenda Fernanda 
+<div align="right">
+  <img src="https://img.icons8.com/nolan/64/lunar-client.png"/>
+</div>
 <div align="center">
   <a href="https://github.com/BreordonhesDev">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=BreordonhesDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreordonhesDev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=BreordonhesDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreordonhesDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Breordonhes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Breordonhes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Breordonhes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Breordonhes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Breordonhes-mysql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<div  align="right" style="display: inline_block"><br>
+  <img align="center" alt="Breordonhes-HTML" height="60" width="55" src="https://img.icons8.com/nolan/64/html-5.png"/>">
+  <img align="center" alt="Breordonhes-CSS" height="60" width="55" src="https://img.icons8.com/nolan/64/html-filetype.png"/>>
+  <img align="center" alt="Breordonhes-Js" height="60" width="55" src="https://img.icons8.com/nolan/64/javascript.png"/>>
+  <img align="center" alt="Breordonhes-React" height="60" width="60" src="https://img.icons8.com/nolan/64/react-native.png"/>>
+  <img align="center" alt="Breordonhes-mysql" height="60" width="55" src="https://img.icons8.com/nolan/64/mysql.png"/>>
   <img align="right" alt="Breordonhes-gif" height="200" width="140" src="https://i.picasion.com/pic92/5a4ee5e1f67b4b26164c4dd8776e9018.gif">
   </div>
   
-  
   ##
   
-  <div>
+  <div  align="right">
      <a href="https://www.instagram.com/breferord/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:bordonhes.fer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/brenda-fernanda-ordonhes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
