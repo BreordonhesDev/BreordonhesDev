@@ -1,8 +1,8 @@
 ## Oiii eu sou a Brenda Fernanda 
 <div align="center">
   <a href="https://github.com/BreordonhesDev">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=BreordonhesDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreordonhesDev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BreordonhesDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreordonhesDev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div  align="right" style="display: inline_block"><br>
   <img align="center" alt="Breordonhes-HTML" height="60" width="55" src="https://img.icons8.com/nolan/64/html-5.png"/>
