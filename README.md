@@ -6,7 +6,7 @@
 </div>
 <div  align="right" style="display: inline_block"><br>
   <img align="center" alt="Breordonhes-HTML" height="60" width="55" src="https://img.icons8.com/nolan/64/html-5.png"/>
-  <img align="center" alt="Breordonhes-CSS" height="60" width="60" src="https://img.icons8.com/nolan/64/html-filetype.png"/>
+  <img align="center" alt="Breordonhes-CSS" height="55" width="65" src="https://img.icons8.com/nolan/64/css-filetype.png"/>
   <img align="center" alt="Breordonhes-Js" height="60" width="55" src="https://img.icons8.com/nolan/64/javascript.png"/>
   <img align="center" alt="Breordonhes-React" height="60" width="60" src="https://img.icons8.com/nolan/64/react-native.png"/>
   <img align="center" alt="Breordonhes-mysql" height="60" width="60" src="https://img.icons8.com/nolan/64/mysql.png"/>
