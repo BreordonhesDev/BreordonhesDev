@@ -10,7 +10,7 @@
   <img align="center" alt="Breordonhes-Js" height="60" width="55" src="https://img.icons8.com/nolan/64/javascript.png"/>
   <img align="center" alt="Breordonhes-React" height="60" width="60" src="https://img.icons8.com/nolan/64/react-native.png"/>
   <img align="center" alt="Breordonhes-mysql" height="60" width="60" src="https://img.icons8.com/nolan/64/mysql.png"/>
-  <img align="right" alt="Breordonhes-gif" height="200" width="140" src="https://i.picasion.com/pic92/5a4ee5e1f67b4b26164c4dd8776e9018.gif" border-radius="50px">
+  <img align="right" alt="Breordonhes-gif" height="200" width="140" src="https://i.picasion.com/pic92/5a4ee5e1f67b4b26164c4dd8776e9018.gif">
   </div>
   
   ##
