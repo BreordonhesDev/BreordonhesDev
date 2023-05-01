@@ -1,4 +1,4 @@
-## Oiii eu sou a Brenda Fernanda 
+## Oiii eu sou a Brenda Fernanda, mas pode me chamar de Askite!
 <div align="center">
   <a href="https://github.com/BreordonhesDev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BreordonhesDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
